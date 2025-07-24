@@ -1,5 +1,7 @@
 # Rag-Harrypotter
-Retrieval-Augmented Generation (RAG) setup applied to *Harry Potter and the Philosopher's Stone*, developed as part of an academic assignment. The goal was to explore how different chunking strategies, retrieval methods, and model combinations impact the faithfulness and relevance of LLM-generated answers to book-related questions.
+Retrieval-Augmented Generation (RAG) setup applied to *Harry Potter and the Philosopher's Stone*, developed as part of an academic assignment. The goal was to explore how different chunking strategies, retrieval methods, and model combinations impact the faithfulness and relevance of LLM-generated answers to book-related questions. 
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/138e3feb-6c31-48ff-87c1-97929a94e5de" />
+
 
 ---
 
