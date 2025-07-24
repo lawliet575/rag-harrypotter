@@ -1,0 +1,12 @@
+Method,Faithfulness,Relevancy,Summary
+Semantic Search,0.774478173,0.747567696,"Based on the information provided, Hagrid is a character in the Harry Potter series Here are some key points about Hagrid:
+
+1."
+Keyword Search (BM25),0.728792729,0.698836809,"Based on the information provided, Hagrid is a character in the Harry Potter series He is described as a gamekeeper at Hogwarts School of Witchcraft and Wizardry."
+Hybrid Search,0.78633042,0.757053318,"Based on the information provided, Hagrid is a character in the Harry Potter series Here are some key points about Hagrid:
+
+1."
+MMR Search,0.786826138,0.676002241,"Based on the information provided, Hagrid is not explicitly described in the text snippets given However, we can infer some details about Hagrid from the context:
+
+1."
+Reciprocal Rank Fusion,0.759933126,0.729063747,"Based on the information provided, Hagrid is a character in the Harry Potter series He is described as a large, burly man who works as the gamekeeper at Hogwarts School of Witchcraft and Wizardry."
