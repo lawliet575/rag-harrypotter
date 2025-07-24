@@ -56,11 +56,3 @@ Hogwarts is hidden in Scotland, protected by magical enchantments from the non-m
 ### 💼 *What role does Professor McGonagall play in the story?*
 She’s Head of Gryffindor House and teaches Transfiguration. She’s strict but fair and deeply respected by students and staff alike.
 
----
-
-This repo includes:
-- Annotated code used in experimentation
-- Evaluation results
-- Charts comparing retrieval techniques and model combinations
-- Certificate of participation and ranking snapshot
-
